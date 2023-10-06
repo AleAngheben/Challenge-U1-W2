@@ -39,9 +39,11 @@ main > .orange-box {
 
 main > .gift-guides {
   background-image: url(../images/bg-image.png);
+  background-position: center;
+  background-position-y: top;
   color: white;
   text-align: center;
-  padding-block: 2rem;
+  padding-block: 4rem;
   margin-block: 1.5rem;
   width: 100%;
 }
